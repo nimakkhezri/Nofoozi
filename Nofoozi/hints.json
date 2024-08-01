@@ -1,0 +1,104 @@
+﻿{
+  "results": [
+    {
+      "question": "بزرگ ترین ضرر مالی که تا به حال به خانواده زدی چی بوده ؟ ",
+      "type": "descriptive",
+      "difficulty": "medium"
+    },
+    {
+      "question": "تا حالا عاشق شدی ؟",
+      "type": "yes_no",
+      "difficulty": "hard"
+    },
+    {
+      "question": "1. easy yes no",
+      "type": "yes_no",
+      "difficulty": "easy"
+    },
+    {
+      "question": "2. easy yes no",
+      "type": "yes_no",
+      "difficulty": "easy"
+    },
+    {
+      "question": "3. easy yes no",
+      "type": "yes_no",
+      "difficulty": "easy"
+    },
+    {
+      "question": "1. medium yes no",
+      "type": "yes_no",
+      "difficulty": "medium"
+    },
+    {
+      "question": "2. medium yes no",
+      "type": "yes_no",
+      "difficulty": "medium"
+    },
+    {
+      "question": "3. medium yes no",
+      "type": "yes_no",
+      "difficulty": "medium"
+    },
+    {
+      "question": "1. hard yes no",
+      "type": "yes_no",
+      "difficulty": "hard"
+    },
+    {
+      "question": "2. hard yes no",
+      "type": "yes_no",
+      "difficulty": "hard"
+    },
+    {
+      "question": "3. hard yes no",
+      "type": "yes_no",
+      "difficulty": "hard"
+    },
+    {
+      "question": "1. easy descriptive",
+      "type": "descriptive",
+      "difficulty": "easy"
+    },
+    {
+      "question": "2. easy descriptive",
+      "type": "descriptive",
+      "difficulty": "easy"
+    },
+    {
+      "question": "3. easy descriptive",
+      "type": "descriptive",
+      "difficulty": "easy"
+    },
+    {
+      "question": "1. medium descriptive",
+      "type": "descriptive",
+      "difficulty": "medium"
+    },
+    {
+      "question": "2. medium descriptive",
+      "type": "descriptive",
+      "difficulty": "medium"
+    },
+    {
+      "question": "3. medium descriptive",
+      "type": "descriptive",
+      "difficulty": "medium"
+    },
+    {
+      "question": "1. hard descriptive",
+      "type": "descriptive",
+      "difficulty": "hard"
+    },
+    {
+      "question": "2. hard descriptive",
+      "type": "descriptive",
+      "difficulty": "hard"
+    },
+    {
+      "question": "3. hard descriptive",
+      "type": "descriptive",
+      "difficulty": "hard"
+    }
+  ]
+}
